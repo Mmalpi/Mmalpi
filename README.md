@@ -8,6 +8,7 @@ const Mmalpi = {
   code: ['Java','C', 'Python', 'C+', 'C++', 'Ensamblador'], 
   tools: ['SQL', 'Azure'],
   areas: ['Data Analysis', 'ML', 'Cloud', 'Software development', 'Project management'],
+  softSkills: ['Leadership', 'Teamwork', 'Emotional intelligence', 'Problem solving'],
   techCommunities: {
                         currently: 'I develop Ml and AI projects',
                       },
