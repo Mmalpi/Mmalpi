@@ -9,9 +9,9 @@ const Mmalpi = {
   tools: ['SQL', 'Azure'],
   areas: ['Data Analysis', 'ML', 'Cloud', 'Software development', 'Project management'],
   softSkills: ['Leadership', 'Teamwork', 'Emotional intelligence', 'Problem solving'],
-  techCommunities: {
+  working: {
                         currently: 'I develop Ml and AI projects',
                       },
- Algo aqui: 'Algo chilo'
+ wayOfThinking: 'Teaching is the best way to learn.'
 }
 ```
