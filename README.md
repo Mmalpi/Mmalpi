@@ -1,6 +1,6 @@
 # Hi, my names is Andres Tenorio Malpica!
 
-My name is Andres, but everybody calls me Mmalpi. I'm in love with technology since my birth, that is why I decide to became a computer scientist.
+My name is Andres, but everybody calls me Mmalpi. I'm in love with technology since my birth, that is why I decide to became a computer scientist. ☺
 
 ```java
 
