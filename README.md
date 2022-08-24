@@ -12,6 +12,6 @@ const Mmalpi = {
   working: {
                 currently: 'I develop Ml and AI projects',
            },
- wayOfThinking: ['Teaching is the best way to learn'],
+  wayOfThinking: ['Teaching is the best way to learn'],
 }
 ```
