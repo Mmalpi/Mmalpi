@@ -5,8 +5,8 @@ My name is Andres, but everybody calls me Mmalpi. I'm in love with technology si
 ```
 
 const Mmalpi = {
-  code: ['Java','C', 'Python', 'C+', 'C++', 'Ensamblador'], 
-  tools: ['SQL', 'Azure'],
+  code: ['Java','C', 'Python', 'C+', 'C++', 'JS'], 
+  tools: ['SQL', 'Azure', 'HCL COMMERCE'],
   areas: ['Data Analysis', 'ML', 'Cloud', 'Software development', 'Project management'],
   softSkills: ['Leadership', 'Teamwork', 'Emotional intelligence', 'Problem solving'],
   working: {
