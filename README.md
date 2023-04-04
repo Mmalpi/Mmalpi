@@ -1,5 +1,5 @@
 Hi! My name is Andres, but everybody calls me Mmalpi.
-I'm full-stack developer with a passion for technology and teaching. I specialize in back-end development using Java and have experience with front-end development using JavaScript, CSS, and HTML. I'm also interested in data science and analysis using Python. I'm always excited to learn and share my knowledge with others, whether it's through mentoring, blogging, or speaking at conferences. Let's connect and discuss how we can work together
+I'm full-stack developer with a passion for technology and teaching. I specialize in back-end development using Java and have experience with front-end development using JavaScript, CSS, and HTML. I'm also interested in data science and analysis using Python. I'm always excited to learn and share my knowledge with others, whether it's through mentoring, blogging, or speaking at conferences.
 
 ```
 
