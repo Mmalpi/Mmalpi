@@ -4,8 +4,8 @@ I'm full-stack developer with a passion for technology and teaching. I specializ
 ```
 
 const Mmalpi = {
-  code: ['Java','C', 'Python', 'C+', 'C++', 'JS'], 
-  tools: ['SQL', 'Azure', 'HCL COMMERCE'],
+  code: ['Java', 'Python', 'CSS', 'HTML', 'JS'], 
+  tools: ['SQL', 'AWS', 'HCL COMMERCE', 'Spring'],
   areas: ['Data Analysis', 'ML', 'Cloud', 'Software development', 'Project management'],
   softSkills: ['Leadership', 'Teamwork', 'Emotional intelligence', 'Problem solving'],
   working: {
